@@ -1,1 +1,2 @@
 # Rock-Paper-Scissor
+A simple **Rock-Paper-Scissors** game built using **HTML, CSS, and JavaScript**. The game allows players to choose between Rock, Paper, or Scissors, and the computer randomly selects an option. The winner is determined based on classic rules: **Rock beats Scissors, Scissors beat Paper, and Paper beats Rock**. The interface is designed with **CSS styling**, while **JavaScript handles game logic, player input, and score updates**.
